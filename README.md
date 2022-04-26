@@ -6,6 +6,7 @@ $ python -m venv venv
 
 ## Iniciar entorno virtual
 $ call venv/scripts/activate (Windows)
+
 $ source venv/bin/activate (Linux/Unix)
 
 ## Instalar dependencias
